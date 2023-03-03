@@ -1,0 +1,37 @@
+{
+	"push": [
+		{
+            "name": "Push Ups",
+			"reps": 10,
+			"sets": 3
+		}, {
+            "name": "Bench Press",
+			"reps": 10,
+			"sets": 5
+		}, {
+            "name": "Shoulder Press",
+			"reps": 10,
+			"sets": 5
+		}, {
+            "name": "Arnold Press",
+			"reps": 8,
+			"sets": 4
+		}, {
+            "name": "Incline Press",
+			"reps": 8,
+			"sets": 4
+		}, {
+            "name": "Overhead Press",
+			"reps": 10,
+			"sets": 3
+		}, {
+            "name": "Tricep Pushdown",
+			"reps": 12,
+			"sets": 4
+		}, {
+            "name": "Dips",
+			"reps": 10,
+			"sets": 3
+		}
+	]
+}

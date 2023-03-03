@@ -1,0 +1,37 @@
+{
+	"arnold2": [
+		{
+            "name": "Shoulder Press",
+			"reps": 12,
+			"sets": 4
+		}, {
+            "name": "Lateral Raises",
+			"reps": 10,
+			"sets": 3
+		}, {
+            "name": "Front Raises",
+			"reps": 10,
+			"sets": 3
+		}, {
+            "name": "Upright Rows",
+			"reps": 10,
+			"sets": 3
+		}, {
+            "name": "Curls",
+			"reps": 10,
+			"sets": 3
+		}, {
+            "name": "Hammer Curls",
+			"reps": 10,
+			"sets": 3
+		}, {
+            "name": "Skull Crushers",
+			"reps": 12,
+			"sets": 4
+		}, {
+            "name": "Tricep Pushdowns",
+			"reps": 12,
+			"sets": 4
+		}
+	]
+}

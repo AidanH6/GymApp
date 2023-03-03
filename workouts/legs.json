@@ -1,0 +1,33 @@
+{
+	"legs": [
+		{
+            "name": "Squats",
+			"reps": 10,
+			"sets": 5
+		}, {
+            "name": "Leg Press",
+			"reps": 8,
+			"sets": 4
+		}, {
+            "name": "Dumbell Lunges",
+			"reps": 10,
+			"sets": 3
+		}, {
+            "name": "Leg Curls",
+			"reps": 10,
+			"sets": 3
+		}, {
+            "name": "Calf Raises",
+			"reps": 12,
+			"sets": 4
+		}, {
+            "name": "Step Ups",
+			"reps": 10,
+			"sets": 3
+		}, {
+            "name": "Box Jumps",
+			"reps": 10,
+			"sets": 3
+		}
+	]
+}

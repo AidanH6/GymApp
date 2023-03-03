@@ -1,0 +1,37 @@
+{
+	"pull": [
+		{
+            "name": "Pull Ups",
+			"reps": 10,
+			"sets": 3
+		}, {
+            "name": "Curls",
+			"reps": 10,
+			"sets": 5
+		}, {
+            "name": "Wrist Curls",
+			"reps": 10,
+			"sets": 5
+		}, {
+            "name": "Hammer Curls",
+			"reps": 10,
+			"sets": 3
+		}, {
+            "name": "Bent-over Rows",
+			"reps": 8,
+			"sets": 4
+		}, {
+            "name": "Seated Rows",
+			"reps": 10,
+			"sets": 5
+		}, {
+            "name": "Lat Pulldowns",
+			"reps": 12,
+			"sets": 4
+		}, {
+            "name": "Face Pulls",
+			"reps": 12,
+			"sets": 3
+		}
+	]
+}
